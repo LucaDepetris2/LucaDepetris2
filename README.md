@@ -2,6 +2,8 @@
 
 **Full Stack Developer · .NET / C# · React · TypeScript** — Buenos Aires, Argentina
 
+I like to fully understand a problem before writing a single line of code — that's usually where the best solution shows up.
+
 I build integrations that have to work in production: connecting an ERP with e-commerce platforms, external services and AI. Currently a Full Stack Developer at **Gauss Sistemas**, where I went from Help Desk to development by fixing the problems I saw every day on support calls.
 
 - 🔧 **Backend:** C#, .NET 8 / 10, ASP.NET Core Web API, Entity Framework Core, Python (FastAPI, Django)
@@ -41,8 +43,17 @@ I build integrations that have to work in production: connecting an ERP with e-c
 
 ---
 
+## 🌐 Freelance web
+
+| Client | What I built | Stack |
+|---|---|---|
+| [**Brava Estudio**](https://github.com/LucaDepetris2/Brava) · [live site](https://lucadepetris2.github.io/Brava/) | Website for a graphic design & branding studio: portfolio, services and WhatsApp contact. | HTML · CSS · JavaScript |
+| [**Club Unión Florida**](https://github.com/LucaDepetris2/club-union-florida) | Website for a sports club with news, players, club history and an admin panel to manage content. | Astro · TypeScript · CSS |
+
+---
+
 ## 📫 Contact
 
-📧 lucadepetris2@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Depetris-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-depetris-6b502424b/) [![Email](https://img.shields.io/badge/Email-lucadepetris2%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lucadepetris2@gmail.com)
 
 🇦🇷 Español nativo · English B2
